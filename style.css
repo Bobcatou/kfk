@@ -1504,7 +1504,8 @@ Site Navigation
 }
 
 .nav-primary {
-	background: url(images/menu-bg.png) repeat 0 0 transparent;
+/*	background: url(images/menu-bg.png) repeat 0 0 transparent; */
+	background: #fff;
 	box-shadow: 0 0 6px #999;
 	left: 0;
 	position: absolute;
