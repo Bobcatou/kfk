@@ -3132,7 +3132,13 @@ Color Options
 	background: url(images/patricia-pink/icon-youtube.png) no-repeat center center transparent;
 }
 
-/*
+
+/* LWM Changes */
+/* Button on home page */
+
+.donate-btn a {
+	margin: 0 20px;
+}
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
 
