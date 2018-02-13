@@ -3139,6 +3139,12 @@ Color Options
 .donate-btn a {
 	margin: 0 20px;
 }
+
+section#text-3, section#text-4 {
+    border: 1px dotted #333;
+    padding: 20px;
+}
+
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
 
