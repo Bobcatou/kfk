@@ -318,11 +318,11 @@ input[type="reset"],
 input[type="submit"],
 .button,
 .entry-content .button {
-	background-color: #0095d0;
+	background-color: #f6b132;
 	border: none;
 	border-radius: 6px;
 	box-shadow: none;
-	color: #fff;
+	color: #000;
 	cursor: pointer;
 	font-size: 16px;
 	font-size: 1.6rem;
@@ -337,7 +337,7 @@ input:hover[type="reset"],
 input:hover[type="submit"],
 .button:hover,
 .entry-content .button:hover {
-	background-color: #029BD8;
+	background-color: #f6b132;
 }
 
 .entry-content .button:hover {
@@ -1046,7 +1046,7 @@ Plugins
 --------------------------------------------- */
 
 .content .entry-content div.gform_wrapper {
-	background-color: #dcddde;
+	background-color: #fad553;
 	border-radius: 6px;
 	padding: 20px;
 }
