@@ -628,7 +628,9 @@ img.alignnone {
 
 img.alignleft,
 .wp-caption.alignleft {
-	margin: 0 24px 24px 0;
+/*	margin: 0 24px 24px 0; */
+	margin: 0 10px 0 0;
+	
 }
 
 img.alignright,
