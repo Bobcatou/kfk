@@ -1394,11 +1394,11 @@ Site Navigation
 }
 
 .genesis-nav-menu .sub-menu {
-	background-color: #0095d0;
-	border-radius: 0 0 6px 6px;
+/*	background-color: #0095d0; 
+	border-radius: 0 0 6px 6px;*/
 	left: -9999px;
 	opacity: 0;
-	padding-bottom: 8px;
+/*	padding-bottom: 8px; */
 	position: absolute;
 	-webkit-transition: opacity .4s ease-in-out;
 	-moz-transition:    opacity .4s ease-in-out;
@@ -1407,10 +1407,11 @@ Site Navigation
 	transition:         opacity .4s ease-in-out;
 	width: 240px;
 	z-index: 99;
+	background-color: #f6b132;
 }
 
 .genesis-nav-menu .sub-menu a {
-	border-bottom: 1px solid #05a8e8;
+/*	border-bottom: 1px solid #05a8e8; */
 	border-top: none;
 	color: #FFF;
 	font-size: 16px;
@@ -1418,7 +1419,8 @@ Site Navigation
 	padding: 10px 20px;
 	position: relative;
 	width: 240px;
-}
+	background: #f6b132;
+	}
 
 .ie7 .genesis-nav-menu .sub-menu a {
 	width: 200px;
@@ -1539,13 +1541,14 @@ Site Navigation
 
 .nav-primary a:hover,
 .nav-primary .current-menu-item > a {
-	background-color: #0095d0;
+	background-color: #f6b132;
 	color: #FFF;
 }
 
 .nav-primary .sub-menu .current-menu-item > a
 .nav-primary .sub-menu a:hover {
 	color: #DDD;
+	
 }
 
 
@@ -2758,6 +2761,7 @@ Color Options
 .patricia-purple .home-slider .more-link a:hover,
 .patricia-purple .genesis-nav-menu .sub-menu {
 	background-color: #7664a1;
+	
 }
 
 .patricia-purple blockquote,
@@ -3062,6 +3066,7 @@ Color Options
 .patricia-pink .home-slider .more-link a:hover,
 .patricia-pink .genesis-nav-menu .sub-menu {
 	background-color: #ff9589;
+	
 }
 
 .patricia-pink blockquote,
