@@ -1422,12 +1422,13 @@ Site Navigation
 	background: #f6b132;
 	}
 
+
 .ie7 .genesis-nav-menu .sub-menu a {
 	width: 200px;
 }
 
 .genesis-nav-menu .sub-menu a:hover {
-	background-color: #039fdd;
+	background-color: #f6b132;
 }
 
 .genesis-nav-menu .sub-menu .sub-menu {
