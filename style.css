@@ -2009,12 +2009,7 @@ div.soliloquy-container .soliloquy-caption h4 {
 }
 
 .donate-btn a {
-	background-color: #007EB0;
-	background-image: -webkit-linear-gradient(top, #0094CE 0%, #007EB0 100%);
-    background-image: -moz-linear-gradient(top, #0094CE 0%, #007EB0 100%);
-    background-image: -ms-linear-gradient(top, #0094CE 0%, #007EB0 100%);
-    background-image: -o-linear-gradient(top, #0094CE 0%, #007EB0 100%);
-    background-image: linear-gradient(top, #0094CE 0%, #007EB0 100%);
+	background-color: #f6b132;
 	border-radius: 5px;
 	color: #FFF;
 	display: inline-block;
@@ -2032,6 +2027,7 @@ div.soliloquy-container .soliloquy-caption h4 {
     background-image: -ms-linear-gradient(top, #007EB0 0%, #0094CE 100%);
     background-image: -o-linear-gradient(top, #007EB0 0%, #0094CE 100%);
     background-image: linear-gradient(top, #007EB0 0%, #0094CE 100%);
+
 }
 
 .sidebar .donate-btn a {
