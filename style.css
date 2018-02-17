@@ -3166,15 +3166,32 @@ h3.home-donate {
     font-size: 2.8rem;
 }
 
-/* Site Header Changed */
+/* Site Header image Changed */
 
 .home-slider .wrap {
 	max-width: 100%;
 }
 
+/* Mailing List/front page */
 
+input#input_5_2 {
+	width: 75%
+}
 
+div#gform_wrapper_5 {
+    background-color: #f6b132;
+    border-radius: 6px;
+    padding: 0 5px 25px 25px;
 
+}
+
+input#gform_submit_button_5 {
+    background: #fad553;
+}
+
+input#gform_submit_button_5:hover {
+    color: #fff;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
