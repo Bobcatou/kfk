@@ -3157,7 +3157,9 @@ section#text-3, section#text-4 {
 	background: #f6b132 !important;
 }
 
-
+.site-footer .credit, .site-footer .copy {
+	color: #fff;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
