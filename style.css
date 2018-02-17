@@ -1793,7 +1793,7 @@ div.soliloquy-container .soliloquy-caption h4 {
 }
 
 .wsm-cta .more-link a {
-	background: none #0095d0;
+	background: #f6b132;
 	border-radius: 5px;
 	color: #FFF;
 	display: inline-block;
@@ -1810,7 +1810,8 @@ div.soliloquy-container .soliloquy-caption h4 {
 }
 
 .wsm-cta .more-link a:hover {
-	background-color: #039FDD;
+	background-color: #fad553;
+
 }
 
 /* Home Bottom
@@ -2022,11 +2023,12 @@ div.soliloquy-container .soliloquy-caption h4 {
 }
 
 .donate-btn a:hover {
-	background-image: -webkit-linear-gradient(top, #007EB0 0%, #0094CE 100%);
+/*	background-image: -webkit-linear-gradient(top, #007EB0 0%, #0094CE 100%);
     background-image: -moz-linear-gradient(top, #007EB0 0%, #0094CE 100%);
     background-image: -ms-linear-gradient(top, #007EB0 0%, #0094CE 100%);
     background-image: -o-linear-gradient(top, #007EB0 0%, #0094CE 100%);
-    background-image: linear-gradient(top, #007EB0 0%, #0094CE 100%);
+    background-image: linear-gradient(top, #007EB0 0%, #0094CE 100%); */
+    background-color: #fad553;
 
 }
 
@@ -2036,7 +2038,8 @@ div.soliloquy-container .soliloquy-caption h4 {
 
 .sidebar .donate-btn a:hover,
 .donate-btn a:hover {
-	color: #e1f3fa;
+	color: #fff;
+	
 }
 
 /* Pagination
