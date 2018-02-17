@@ -136,7 +136,7 @@ textarea:focus,
 }
 
 a {
-	color: #0094CF;
+	color: #f6b132;
 	text-decoration: none;
 }
 
@@ -145,7 +145,7 @@ a img {
 }
 
 a:hover {
-	color: #231F20;
+	color: #fad553;
 }
 
 p {
@@ -1879,11 +1879,11 @@ div.soliloquy-container .soliloquy-caption h4 {
 }
 
 .entry-content a {
-	color: #0094cf;
+	color: #f6b132;
 }
 
 .entry-content a:hover {
-	color: #333;
+	color: #fad553;
 }
 
 .entry-content .attachment a,
@@ -1905,7 +1905,7 @@ div.soliloquy-container .soliloquy-caption h4 {
 .entry-content h4,
 .entry-content h5,
 .entry-content h6 {
-	color: #0095D0;
+	color: #f6b132;
 }
 
 .entry-content ol,
@@ -3160,6 +3160,12 @@ section#text-3, section#text-4 {
 .site-footer .credit, .site-footer .copy {
 	color: #fff;
 }
+
+h3.home-donate {
+	font-size: 28px;
+    font-size: 2.8rem;
+}
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
