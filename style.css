@@ -3152,6 +3152,13 @@ section#text-3, section#text-4 {
     padding: 20px;
 }
 
+
+.tribe-events-list-widget .tribe-event-featured {
+	background: #f6b132 !important;
+}
+
+
+/*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
 
