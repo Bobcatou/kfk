@@ -3192,6 +3192,14 @@ input#gform_submit_button_5 {
 input#gform_submit_button_5:hover {
     color: #fff;
 }
+
+
+
+/* Header image make full width */
+section#media_image-2 img {
+	width: 100%;
+}
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
