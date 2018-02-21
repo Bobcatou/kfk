@@ -3262,6 +3262,14 @@ li#menu-item-181 a:hover {
 }
 
 
+/* Mission Statement page */
+
+h2.mission {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
