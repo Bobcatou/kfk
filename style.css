@@ -3235,6 +3235,12 @@ section#media_image-2 img {
 	font-size: 20px;
 }
 
+/* Donate Form */
+
+h2.gsection_title {
+    color: #000;
+}
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
