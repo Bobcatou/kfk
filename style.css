@@ -3241,6 +3241,27 @@ h2.gsection_title {
     color: #000;
 }
 
+/* Facebook Menu */
+
+.lwm-fb {
+background-image: url('https://kissesfromkeegan.localhost/wp-content/uploads/2018/02/fb-25px.png');
+background-repeat: no-repeat;
+padding-left: 5px;
+margin-left: 10px;
+
+}
+
+li#menu-item-181 {
+	font-size: 0px;
+
+}
+
+
+li#menu-item-181 a:hover {
+	background-color: transparent;
+}
+
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
