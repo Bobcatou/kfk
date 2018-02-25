@@ -3244,10 +3244,12 @@ h2.gsection_title {
 /* Facebook Menu */
 
 .lwm-fb {
-background-image: url('https://kissesfromkeegan.localhost/wp-content/uploads/2018/02/fb-25px.png');
+background: url(images/fb-25px.png) no-repeat;
+/*background-image: url('https://kissesfromkeegan.localhost/wp-content/uploads/2018/02/fb-25px.png'); */
 background-repeat: no-repeat;
 padding-left: 5px;
 margin-left: 10px;
+overflow: visible;
 
 }
 
