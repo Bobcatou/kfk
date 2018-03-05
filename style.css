@@ -3235,6 +3235,15 @@ section#media_image-2 img {
 	font-size: 20px;
 }
 
+.tribe-events-list .tribe-events-loop .tribe-event-featured {
+    background: #f6b132 !important;
+    }
+
+
+.home ol, .home ul, .home li {
+	list-style-type: none;
+}
+
 /* Donate Form */
 
 h2.gsection_title {
@@ -3249,9 +3258,19 @@ background: url(images/fb-25px.png) no-repeat;
 background-repeat: no-repeat;
 padding-left: 5px;
 margin-left: 10px;
-overflow: visible;
 
 }
+.lwm-ig {
+background: url(images/instagram-25px.png) no-repeat;
+/*background-image: url('https://kissesfromkeegan.localhost/wp-content/uploads/2018/02/fb-25px.png'); */
+background-repeat: no-repeat;
+padding-left: 5px;
+margin-left: 10px;
+
+}
+
+
+
 
 li#menu-item-181 {
 	font-size: 0px;
@@ -3275,6 +3294,11 @@ h2.mission {
 .board.button {
 	font-size: 18px;
 	font-size: 1.8rem;
+}
+
+
+div#tribe-events-content {
+    width: 100% !important;
 }
 
 /*
