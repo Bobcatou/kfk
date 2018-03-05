@@ -3238,11 +3238,10 @@ section#media_image-2 img {
 .tribe-events-list .tribe-events-loop .tribe-event-featured {
     background: #f6b132 !important;
     }
-
-
-.home ol, .home ul, .home li {
+.home .content ol li {
 	list-style-type: none;
 }
+
 
 /* Donate Form */
 
