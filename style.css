@@ -3282,6 +3282,12 @@ li#menu-item-181 a:hover {
 }
 
 
+/* Instagram Menu Item */
+
+li#menu-item-202 span {
+    display: none;
+}
+
 /* Mission Statement page */
 
 h2.mission {
@@ -3300,6 +3306,37 @@ div#tribe-events-content {
     width: 100% !important;
 }
 
+
+/* Resources styling */
+
+.resource-row1, .resource-row2, .resource-row3 {
+    border: 1px solid #f6b132;
+    padding: 20px;
+}
+
+
+.resource-row1 {
+    min-height: 702px;
+}
+
+.resource-row2 {
+    min-height: 483px;
+}
+
+.resource-row3 {
+    min-height: 485px;
+}
+
+
+
+.kfk-logos h2 {
+    font-size: 32px;
+    text-align: center;
+}
+
+.kfk-logos {
+	margin-top: 30px;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
