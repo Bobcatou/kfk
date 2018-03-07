@@ -3268,25 +3268,25 @@ margin-left: 10px;
 
 }
 
-
-
-
-li#menu-item-181 {
-	font-size: 0px;
-
+li#menu-item-181,
+li#menu-item-202 {
+    font-size: 0px;
 }
 
 
-li#menu-item-181 a:hover {
+
+
+
+li#menu-item-181 a:hover, li#menu-item-202 a:hover {
 	background-color: transparent;
 }
 
 
 /* Instagram Menu Item */
 
-li#menu-item-202 span {
+/*li#menu-item-202 span {
     display: none;
-}
+}*/
 
 /* Mission Statement page */
 
