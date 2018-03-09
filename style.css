@@ -807,6 +807,9 @@ h2.entry-title {
 	margin-bottom: 0;
 }
 
+
+
+
 .entry-title a,
 .sidebar .widget-title a {
 	color: #231f20;
@@ -3342,6 +3345,18 @@ div#tribe-events-content {
 img.campdream {
     background: #000;
 }
+
+
+/* Blog/News Page */
+.page-id-266 h2.entry-title {
+    font-size: 30px;
+	font-size: 3rem;
+    line-height: 33px;
+    min-height: 179px;
+}
+
+
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
