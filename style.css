@@ -3348,7 +3348,7 @@ img.campdream {
 
 
 /* Blog/News Page */
-.page-id-266 h2.entry-title {
+.page-id-14 h2.entry-title {
     font-size: 30px;
 	font-size: 3rem;
     line-height: 33px;
@@ -3359,6 +3359,11 @@ section#gform_widget-4 {
     background: #fad553;
     padding: 20px;
 }
+
+.page-id-14 .entry {
+    margin-bottom: 40px;
+}
+
 
 /*
 Media Queries
