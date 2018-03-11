@@ -3355,7 +3355,7 @@ img.campdream {
     min-height: 179px;
 }
 
-section#gform_widget-4 {
+section#gform_widget-4, section#gform_widget-5 {
     background: #fad553;
     padding: 20px;
 }
