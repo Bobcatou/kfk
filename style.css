@@ -3369,6 +3369,16 @@ section#gform_widget-4, section#gform_widget-5 {
 	color: #f6b132
 }
 
+/* Stats Page */
+
+.post-33 img.aligncenter {
+	background: #f6b132;
+}
+
+.post-33 .entry-title {
+	text-align: center;
+    margin-bottom: 30px;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
