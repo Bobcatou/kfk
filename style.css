@@ -3379,6 +3379,12 @@ section#gform_widget-4, section#gform_widget-5 {
 	text-align: center;
     margin-bottom: 30px;
 }
+
+
+.gallery img {
+	border: 2px solid #f6b132;
+    background: #f6b132;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
