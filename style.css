@@ -3385,6 +3385,16 @@ section#gform_widget-4, section#gform_widget-5 {
 	border: 2px solid #f6b132;
     background: #f6b132;
 }
+
+
+
+h2.gallery-events {
+    text-align: center;
+    font-size: 3rem;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
