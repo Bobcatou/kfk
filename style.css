@@ -3395,6 +3395,9 @@ h2.gallery-events {
     margin-top: 20px;
 }
 
+.post-12 .entry-title {
+	text-align: center;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
