@@ -1378,7 +1378,7 @@ Site Navigation
 	border: none;
 	color: #231f20;
 	display: block;
-	padding: 20px 12px;
+	padding: 20px 10px;
 	position: relative;
 }
 
@@ -3381,7 +3381,7 @@ section#gform_widget-4, section#gform_widget-5 {
 }
 
 
-/* Galleries */
+/* Galleries Heroes*/
 
 .gallery img {
 	border: 2px solid #f6b132;
@@ -3395,11 +3395,46 @@ h2.gallery-events {
     font-size: 3rem;
     font-size: 30px;
     margin-top: 20px;
+    color: #000;
 }
 
 .post-12 .entry-title {
 	text-align: center;
 }
+
+.post-12 td, .post-10 td {
+	border-top: 0px;
+	padding-left: 35px;
+}
+
+
+
+.post-12 img.attachment-thumbnail.size-thumbnail.wp-post-image, .post-10 img.attachment-thumbnail.size-thumbnail.wp-post-image, img.aligncenter.size-full.wp-image-474 {
+	border: 5px solid #f6b132;	
+	background: #f6b132;
+	padding: 0;
+}
+
+
+.gallery-grid h2 {
+	font-size: 2.5rem;
+}
+
+.post-10 .entry-title {
+	text-align: center;
+    margin-bottom: 30px;
+}
+
+/* For whitespace */
+
+.whitespace {
+	height: 100px;
+}
+
+
+
+
+
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
