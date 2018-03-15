@@ -3459,8 +3459,11 @@ Media Queries
 	}
 
 	.genesis-nav-menu .menu-item {
-		font-size: 17px;
-		font-size: 1.7rem;
+/*		font-size: 17px;
+		font-size: 1.7rem; */
+		font-size: 15px;
+		font-size: 1.5rem;
+		
 	}
 
 }
@@ -3596,9 +3599,9 @@ Media Queries
 	}
 
 
-ul#menu-main {
+/*ul#menu-main {
     padding-bottom: 10px;
-    }
+    } */
 
 
 
