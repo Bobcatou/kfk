@@ -3432,8 +3432,16 @@ h2.gallery-events {
 }
 
 
+div#gallery-1 {
+    background: #f6b132;
+    padding: 20px;
+    border-radius: 6px;
+}
 
-
+#gallery-1 img {
+    border: 2px solid #fff !important;
+    background: #fff;
+}
 
 /*
 Media Queries
@@ -3605,7 +3613,9 @@ Media Queries
 	.genesis-nav-menu a,
 	.genesis-nav-menu > .first > a,
 	.genesis-nav-menu > .last > a {
-		padding: 6px 10px;
+/*		padding: 6px 10px; */
+		padding: 15px 10px;
+
 	}
 
 	.content,
