@@ -3432,7 +3432,6 @@ h2.gallery-events {
 }
 
 
-
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
@@ -3611,7 +3610,18 @@ Media Queries
     text-align: center;
 }
 
+
+/* Donation picture */
+img.alignright.size-medium.wp-image-164 {
+	width: 100%;
 }
+
+.post-45 img {
+	margin: 3%;
+}
+
+}
+
 
 
 @media only screen and (max-width: 680px) {
@@ -3765,6 +3775,18 @@ margin: 0 auto;
     font-size: 2.5rem;
     }
 
+.page-id-14 h2.entry-title {
+    font-size: 2rem;
+    line-height: 24px;
+    padding-top: 10px;
+}
+
+
+.page-id-14 .entry-title {
+	font-size: 4rem;
+	}
+
+
 
 }
 
@@ -3792,6 +3814,14 @@ margin: 0 auto;
 .donate-btn a {
 	font-size: 2.5rem;
 	padding: 10px;
+}
+
+
+.lwm-fb, .lwm-ig {
+	display:none;
+}
+ul#menu-main {
+    display: none;
 }
 
 }
