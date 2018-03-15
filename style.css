@@ -3595,6 +3595,13 @@ Media Queries
 		width: 100%;
 	}
 
+
+ul#menu-main {
+    padding-bottom: 10px;
+    }
+
+
+
 }
 
 
@@ -3660,6 +3667,12 @@ Media Queries
 }
 
 
+input#input_5_1_3, input#input_5_1_6 {
+    width: 96%;
+}
+
+
+
 }
 
 @media only screen and (max-width: 480px) {
@@ -3683,18 +3696,66 @@ Media Queries
 		float: none;
 	}
 
-
+/* Listen to the wind Media Changes */
 .post-12 td, .post-10 td {
 	padding-left: 0;
 }
 
- .gallery-grid table td {  
-	 display: block; }
+ /*.gallery-grid table td {  
+	 display: block; } */
 
 
 img {
 	width: 100% !important;
 }
+
+/* Centered images that float left and right for better viewing */
+/************************************/
+
+
+
+/* Center's images in blog and other pages */
+img.alignleft, .wp-caption.alignleft{
+float:none;
+margin: 0 auto;
+display: block;
+}
+
+img.alignright, .wp-caption.alignright {
+display:block;
+float:none;
+margin: 0 auto;
+
+
+/* Adds for Full Width Below */
+
+
+/* Center's images in blog and other pages */
+img.alignleft, .wp-caption.alignleft{
+float:none;
+margin: 0 auto;
+display: block;
+}
+
+img.size-full {
+display:block;
+float:none;
+margin: 0 auto;
+
+}
+img.alignright, .wp-caption.alignright {
+display:block;
+float:none;
+margin: 0 auto;
+
+
+}
+
+
+.genesis-nav-menu .sub-menu a {
+	width: 50px;
+}
+
 
 
 }
@@ -3716,5 +3777,13 @@ img {
 		font-size: 52px;
 		font-size: 5.2rem;
 	}
+
+
+/* LWM Tweaks */
+
+.donate-btn a {
+	font-size: 2.5rem;
+	padding: 10px;
+}
 
 }
