@@ -3432,16 +3432,6 @@ h2.gallery-events {
 }
 
 
-div#gallery-1 {
-    background: #f6b132;
-    padding: 20px;
-    border-radius: 6px;
-}
-
-#gallery-1 img {
-    border: 2px solid #fff !important;
-    background: #fff;
-}
 
 /*
 Media Queries
@@ -3661,6 +3651,15 @@ Media Queries
 		width: 100%;
 	}
 
+
+
+/* Listen to the Wind Media tweaks...Note probably needs to move */
+
+#gallery-1 .gallery-item {
+	width: 100% !important;
+}
+
+
 }
 
 @media only screen and (max-width: 480px) {
@@ -3683,6 +3682,20 @@ Media Queries
 	.footer-nav ul.nav {
 		float: none;
 	}
+
+
+.post-12 td, .post-10 td {
+	padding-left: 0;
+}
+
+ .gallery-grid table td {  
+	 display: block; }
+
+
+img {
+	width: 100% !important;
+}
+
 
 }
 
