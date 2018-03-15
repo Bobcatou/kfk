@@ -3607,7 +3607,9 @@ Media Queries
     padding-bottom: 10px;
     } */
 
-
+.entry-title {
+    text-align: center;
+}
 
 }
 
@@ -3732,7 +3734,7 @@ img.alignright, .wp-caption.alignright {
 display:block;
 float:none;
 margin: 0 auto;
-
+}
 
 /* Adds for Full Width Below */
 
@@ -3758,10 +3760,11 @@ margin: 0 auto;
 
 }
 
+.entry-title {
+    font-size: 25px;
+    font-size: 2.5rem;
+    }
 
-h1.entry-title {
-    text-align: center;
-}
 
 }
 
