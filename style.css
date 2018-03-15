@@ -3461,8 +3461,8 @@ Media Queries
 	.genesis-nav-menu .menu-item {
 /*		font-size: 17px;
 		font-size: 1.7rem; */
-		font-size: 15px;
-		font-size: 1.5rem;
+		font-size: 13px;
+		font-size: 1.3rem;
 		
 	}
 
@@ -3488,7 +3488,11 @@ Media Queries
 		left: auto;
 		right: 10px;
 	}
+/* for whitespace padding taking out of mobile */
 
+.whitespace {
+	display: none;
+}
 }
 
 @media only screen and (max-width: 900px) {
@@ -3755,11 +3759,9 @@ margin: 0 auto;
 }
 
 
-.genesis-nav-menu .sub-menu a {
-	width: 50px;
+h1.entry-title {
+    text-align: center;
 }
-
-
 
 }
 
