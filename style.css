@@ -673,14 +673,16 @@ img.aligncenter,
 img.alignright,
 img.alignleft {
 	border-radius: 6px;
-	background: #f0f0f1;
+/*	background: #f0f0f1; */
+	background: #f6b132;	
 	border: 1px solid #e7e7e7;
 	padding: 6px;
 }
-
 .entry-image {
 	border-radius: 6px;
 }
+
+
 
 /* ## Gallery
 --------------------------------------------- */
@@ -3437,6 +3439,12 @@ h2.gallery-events {
 }
 
 
+
+/* Download to calendar */
+a.tribe-events-ical.tribe-events-button {
+    margin-bottom: 30px;
+    background: #f6b132 !important;
+}
 /*
 Media Queries
 ---------------------------------------------------------------------------------------------------- */
